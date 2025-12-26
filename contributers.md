@@ -24,6 +24,7 @@
 | Ishan Tripathi         | ishantripathi64     | IIIT Allahabad                 |
 | Ayush Mishra           | ayush-mg            | IIIT Allahabad                 |
 | Mukut kumar            | MK-codes365         | UIET (CSJMU) Kanpur            |
+| Mannat Jain           |mannatjain11465-netizen| IIIT Allahabad               |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
